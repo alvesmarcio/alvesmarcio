@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Márcio Alves!</h1>
-<h3 align="center">Full-stack developer from Brazil! Business management professional with over 20 years of experience. Skilled in sales, logistics, business strategy, project management, software and video game development. Now looking for a full-stack developer position. Proficient in: ReactJS | Git & Github | NodeJS | Python | JavaScript | MongoDB</h3>
+<h3 align="center">Full-stack developer from Brazil! Business management professional with over 20 years of experience. Skilled in sales, logistics, business strategy, project management, software and video game development. Now looking for a full-stack developer position. Proficient in: ReactJS | Git & Github | NodeJS | Express | Python | Flask | JavaScript | PostgreSQL | MongoDB</h3>
 
 - 📫 How to reach me **alvesmarcio@hotmail.com**
 
